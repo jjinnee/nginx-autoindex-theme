@@ -18,7 +18,7 @@
         return 204;
       }
       location /theme/ {
-        alias /your/html/file/path/;
+        alias /your/html/dir/path/;
       }
     }
 
